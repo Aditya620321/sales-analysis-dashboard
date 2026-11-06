@@ -6,8 +6,8 @@ I also created a responsive HTML and CSS webpage to showcase the project and pro
 
 ## View the Project
 
-- [Open the Website](./index.html)
-- [Download the Excel Workbook](./Dashboard.xlsx)
+- [Open the Website](https://aditya620321.github.io/sales-analysis-dashboard/)
+- [Download the Excel Workbook](https://aditya620321.github.io/sales-analysis-dashboard/Dashboard.xlsx)
 
 To view the live website, use the GitHub Pages link in this repository’s About section. The website link above opens the HTML source when viewed on GitHub.
 
